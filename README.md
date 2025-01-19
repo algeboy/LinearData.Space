@@ -15,12 +15,51 @@ Emily J. King and James B. Wilson
 
  <p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"></a></p> 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/scaCRHKBMAU?si=kPaPzKzTpalaQFq5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<center>
+    <iframe 
+        width="560" height="315" 
+        src="https://www.youtube.com/embed/scaCRHKBMAU?si=kPaPzKzTpalaQFq5" title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        allowfullscreen>
+</iframe>
+</center>
 
-## Book Chapter 1-6
-<a href="https://github.com/algeboy/LinearData.Space/releases/download/Part1/LinearData.pdf" >
-<img src="Cover-Art.png" width="100%" >
-</a>
+## 
+<table>
+    <tr>
+        <td bgcolor="lightgray">
+                <a href="https://github.com/algeboy/LinearData.Space/releases/download/Jan25/I-LinearData.pdf" >
+                Part I
+                <img src="img/I-Cover-Art-web.png" border=2 width="100%" >
+                </a>
+        </td>
+        <td bgcolor="lightyellow">
+                <a href="https://github.com/algeboy/LinearData.Space/releases/download/Jan25/II-LinearData.pdf" >
+                Part II
+                <img src="img/II-Cover-Art-web.png" border=2 width="100%" >
+                </a>
+        </td>
+        <td bgcolor="lightgray">
+                <a href="https://github.com/algeboy/LinearData.Space/releases/download/Jan25/III-LinearData.pdf" >
+                Part III
+                <img src="img/III-Cover-Art-web.png" border=2 width="100%" >
+                </a>
+        </td>
+        <td bgcolor="lightyellow">
+                <a href="https://github.com/algeboy/LinearData.Space/releases/download/Jan25/IV-LinearData.pdf" >
+                Part IV
+                <img src="img/IV-Cover-Art-web.png" border=2 width="100%" >
+                </a>
+        </td>
+        <td bgcolor="lightgray">
+                <a href="https://github.com/algeboy/LinearData.Space/releases/download/Jan25/LinearData.pdf" >
+                Full
+                <img src="img/Full-Cover-Art-web.png" border=2 width="100%" >
+                </a>
+        </td>
+    </tr>
+</table>
 
 
 
