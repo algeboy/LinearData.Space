@@ -29,31 +29,31 @@ Emily J. King and James B. Wilson
 <table>
     <tr>
         <td bgcolor="lightgray">
-                <a href="https://github.com/algeboy/LinearData.Space/releases/download/Jan25/I-LinearData.pdf" >
+                <a href="https://github.com/algeboy/LinearData.Space/releases/download/v1.1.0/I-LinearData.pdf" >
                 Part I
                 <img src="img/I-Cover-Art-web.png" border=2 width="100%" >
                 </a>
         </td>
         <td bgcolor="lightyellow">
-                <a href="https://github.com/algeboy/LinearData.Space/releases/download/Jan25/II-LinearData.pdf" >
+                <a href="https://github.com/algeboy/LinearData.Space/releases/download/v1.1.0/II-LinearData.pdf" >
                 Part II
                 <img src="img/II-Cover-Art-web.png" border=2 width="100%" >
                 </a>
         </td>
         <td bgcolor="lightgray">
-                <a href="https://github.com/algeboy/LinearData.Space/releases/download/Jan25/III-LinearData.pdf" >
+                <a href="https://github.com/algeboy/LinearData.Space/releases/download/v1.1.0/III-LinearData.pdf" >
                 Part III
                 <img src="img/III-Cover-Art-web.png" border=2 width="100%" >
                 </a>
         </td>
         <td bgcolor="lightyellow">
-                <a href="https://github.com/algeboy/LinearData.Space/releases/download/Jan25/IV-LinearData.pdf" >
+                <a href="https://github.com/algeboy/LinearData.Space/releases/download/v1.1.0/IV-LinearData.pdf" >
                 Part IV
                 <img src="img/IV-Cover-Art-web.png" border=2 width="100%" >
                 </a>
         </td>
         <td bgcolor="lightgray">
-                <a href="https://github.com/algeboy/LinearData.Space/releases/download/Jan25/LinearData.pdf" >
+                <a href="https://github.com/algeboy/LinearData.Space/releases/download/v1.1.0/LinearData.pdf" >
                 Full
                 <img src="img/Full-Cover-Art-web.png" border=2 width="100%" >
                 </a>
