@@ -25,7 +25,11 @@ Emily J. King and James B. Wilson
 </iframe>
 </center>
 
-## 
+* [Book](#book)
+* [Labs](#labs)
+* [Authors](#meet-the-authors)
+
+## Book
 <table>
     <tr>
         <td bgcolor="lightgray">
@@ -62,8 +66,11 @@ Emily J. King and James B. Wilson
 </table>
 
 
+## Labs
 
+For a collection of exercises, labs, and demonstrations to use alongside this book [Visit the GitHub Repository](https://github.com/gnikylime/LinearDataCode)
 
+---
 
 ### Meet the Authors
 
